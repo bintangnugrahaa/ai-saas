@@ -1,4 +1,4 @@
-# Build a AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
+# Build AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
 
 ![Copy of Copy of Copy](https://github.com/AntonioErdeljac/next13-ai-saas/assets/23248726/c47e604a-b50b-4eb0-b420-fda20908f522)
 
